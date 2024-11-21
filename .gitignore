@@ -79,3 +79,5 @@ build/Release/
 # Local serverless directories
 .serverless/
 .webpack/
+
+.idea/
