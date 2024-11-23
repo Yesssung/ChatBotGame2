@@ -16,7 +16,7 @@ const ChatWindow: React.FC = () => {
   const getPromptForGenre = (genre: string) => {
     switch (genre) {
       case "romance":
-        return "로맨스 게임 시작.";
+        return "로맨스 게임 시작 할까용";
       case "mystery":
         return "추리 게임 시작.";
       case "survival":
